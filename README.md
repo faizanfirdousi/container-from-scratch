@@ -1,6 +1,4 @@
-Here is a shorter version that keeps the essentials while pointing readers to your blog for deeper explanation:
 
----
 
 # Container From Scratch (Go)
 
