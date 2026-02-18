@@ -14,6 +14,7 @@ This project demonstrates how containers work internally using:
 It re-executes itself inside new namespaces, pivots into a minimal root filesystem, applies resource constraints, and runs a command as PID 1 inside the container.
 
 For a detailed explanation of how each part works, read the accompanying blog post.
+https://dev.to/faizanfirdousi/build-a-container-from-scratch-in-go-modern-namespaces-cgroup-v2-5556
 
 ---
 
